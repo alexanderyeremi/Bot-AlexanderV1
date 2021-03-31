@@ -11,8 +11,8 @@ JANGAN UBAH NAMA BOT BIAR BOTNYA GAK RUSAK!!
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/RC047/Kuhong-V4
-> cd Kuhong-V4
+> git clone https://github.com/alexanderyeremi/Bot-AlexanderV1
+> cd Bot-AlexanderV1
 > npm install
 ```
 ###### Run
@@ -27,8 +27,8 @@ JANGAN UBAH NAMA BOT BIAR BOTNYA GAK RUSAK!!
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/RC047/Kuhong-V4
-> cd Kuhong-V4
+> git clone https://github.com/alexanderyeremi/Bot-AlexanderV1
+> cd Bot-AlexanderV1
 > npm install
 ```
 ###### Run
