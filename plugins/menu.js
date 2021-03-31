@@ -4,7 +4,7 @@ let { MessageType, mentionedJid } = require('@adiwajshing/baileys')
 let fs = require ('fs')
 let path = require('path')
 let handler  = async (m, { conn, usedPrefix: _p }) => {
-  await conn.fakeReply(m.chat, 'Loading...', '0@s.whatsapp.net', '*BY RENDY GANS*')
+  await conn.fakeReply(m.chat, 'Loading...', '0@s.whatsapp.net', '*BY ALEXANDER YEREMI*')
   let RendyGans = './src/avatar_contact.png'
   let nomor = 'wa.me/6281281783202'
   let sosmed = 'Alexander Yeremi'
