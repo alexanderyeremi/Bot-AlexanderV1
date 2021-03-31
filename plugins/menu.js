@@ -5,9 +5,9 @@ let fs = require ('fs')
 let path = require('path')
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   await conn.fakeReply(m.chat, 'Loading...', '0@s.whatsapp.net', '*BY ALEXANDER YEREMI*')
-  let RendyGans = './src/avatar_contact.png'
+  let AlexanderYeremi = './src/avatar_contact.png'
   let nomor = 'wa.me/6281281783202'
-  let sosmed = 'Alexander Yeremi'
+  let sosmed = '@alexanderyeremi.yt'
   let jadwal = '24 Jam'
   let github = 'https://github.com/alexanderyeremi/Bot-AlexanderV1'
   let linkgroup = 'https://chat.whatsapp.com/Ig2hg0ZX8yiDlAd7KeXkpe'
