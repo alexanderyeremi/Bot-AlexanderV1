@@ -1,5 +1,5 @@
 # Kuhong-V4
-Recode SC : Nurutomo
+Recode SC : Alexander Yeremi
 
 # NOTE :
 JANGAN UBAH NAMA BOT BIAR BOTNYA GAK RUSAK!!
