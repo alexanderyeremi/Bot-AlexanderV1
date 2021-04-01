@@ -3,7 +3,7 @@ let handler = async m => m.reply(`
 │• SAWERIA :
 │https://saweria.co/donate/RC047
 │• OVO [+6281281783202]
-│• TRI [+62895337278647]
+│• TELKOMSEL [+6281281783202]
 │• DANA [+6281281783202]
 │• GOPAY [+6281281783202]
 ╰────
