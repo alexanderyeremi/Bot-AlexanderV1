@@ -1,6 +1,6 @@
-let handler = m => m.reply('Wa`alaikumussalam')
+let handler = m => m.reply('Wa`alaikumussalam'|'Shalom')
 
-handler.customPrefix = /assalamualaikum|Assalamualaikum|Salam|salam/i
+handler.customPrefix = /'assalamualaikum|Assalamualaikum|^Shalom|shalom/i
 handler.command = new RegExp
 
 module.exports = handler
