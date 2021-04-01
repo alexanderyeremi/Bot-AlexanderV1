@@ -1,7 +1,7 @@
 let handler = async m => m.reply(`
 ╭─「 DONATION 」
 │• SAWERIA :
-│https://saweria.co/donate/RC047
+│https://saweria.co/alexanderyeremi
 │• OVO [+6281281783202]
 │• TELKOMSEL [+6281281783202]
 │• DANA [+6281281783202]
