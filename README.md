@@ -179,5 +179,5 @@ JANGAN UBAH NAMA BOT BIAR BOTNYA GAK RUSAK!!
 
 
 
-##### Created By : [`Nurutomo`](https://GitHub.com/Nurutomo) 
-##### Recoded By : [`RC047`](https://GitHub.com/RC047) 
+##### Created By : [`alexanderyeremi`](https://GitHub.com/alexanderyeremi) 
+##### Recoded By : [`alexanderyeremi`](https://GitHub.com/alexanderyeremi) 
