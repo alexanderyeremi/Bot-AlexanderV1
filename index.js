@@ -2,12 +2,12 @@ console.log('Awoakakak :v')
 let { spawn } = require('child_process')
 let path = require('path')
 const CFonts  = require('cfonts')
-CFonts.say('Rendy Gans', {
+CFonts.say('Alexander Yeremi', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say('Jika Ada Bug/Erorr Bisa Hubungi\nwa.me/62895337278647', {
+CFonts.say('Jika Ada Bug/Erorr Bisa Hubungi\nwa.me/6281281783202', {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
