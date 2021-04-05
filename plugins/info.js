@@ -3,7 +3,7 @@ let info = `
 ╭─「 INFO BOT 」
 │
 │> Bot Recoded By :
-│• RC047
+│• ALEXANDER YEREMI
 │
 │> Bot Dibuat Dengan :
 │• JavaScript via NodeJS
@@ -15,11 +15,11 @@ let info = `
 │
 │> Donasi :
 │• SAWERIA :
-│https://saweria.co/donate/RC047
-│• OVO [+62895337278647]
-│• TRI [+62895337278647]
-│• DANA [+62895337278647]
-│• GOPAY [+62895337278647]
+│https://saweria.co/alexanderyeremi
+│• VIA OVO [+6281281783202]
+│• VIA PULSA [+6281281783202]
+│• VIA DANA [+6281281783202]
+│• VIA GOPAY [+6281281783202]
 ╰────
 `.trim()
 
